@@ -1,0 +1,10 @@
+{
+  "@class" : "org.apereo.cas.services.OidcRegisteredService",
+  "clientId": "6bd4139b-19ea-4b8a-849c-5a4864cca994",
+  "clientSecret": "d3e9c88c-a1d7-4c5c-b8fc-f1384f43b5a0",
+  "serviceId" : "http://localhost:1880/hello",
+  "scopes" : [ "openid"],
+  "name" : "CasOAuthClient",
+  "jsonFormat": true,
+  "id" : 101
+}

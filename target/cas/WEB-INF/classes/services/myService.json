@@ -1,0 +1,10 @@
+{
+  "@class" : "org.apereo.cas.support.oauth.services.OAuthRegisteredService",
+  "clientId": "clientId",
+  "clientSecret": "clientSecret",
+  "serviceId" : "http://example",
+  "scopes" : [ "openid"],
+  "name" : "CasOAuthClient2",
+  "jsonFormat": true,
+  "id" : 102
+}
